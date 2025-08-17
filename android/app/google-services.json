@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243500995641",
+    "project_id": "aktiv-hub",
+    "storage_bucket": "aktiv-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243500995641:android:f22346ef6a60af42e769e8",
+        "android_client_info": {
+          "package_name": "io.aktiv.hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYSvmFId71QrZtIi6JIGRkcC7pZtCbkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
